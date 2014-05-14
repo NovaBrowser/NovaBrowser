@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/User/nick/Desktop/Development/QT Dev/NovaBrowser_v7">
+        <file>close.png</file>
+    </qresource>
+</RCC>
